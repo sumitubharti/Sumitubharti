@@ -1,22 +1,21 @@
-# 👋 Hi, I'm Sumit
+# Sumit Bharti
 
-### 💻 Software Developer | Python Developer | AI Learner
+### Software Developer Â· Python Developer Â· AI/ML Enthusiast
 
-I'm learning **Python, AI, Machine Learning and Software Development**.
-I enjoy building projects and learning new technologies.
+I build practical software and AI projects while deepening my expertise in **Python, Machine Learning, and Software Development**. I enjoy translating ideas into working applications and continuously exploring new technologies.
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### Programming Languages
+**Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -24,25 +23,25 @@ I enjoy building projects and learning new technologies.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Development
+**Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+**Frameworks & Tools**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Databases
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Science & AI
+**Data Science & AI**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -53,47 +52,35 @@ I enjoy building projects and learning new technologies.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🤖 AI Assistant
-AI-based personal assistant project built with Python.
+**AI Assistant**
+A Python-based personal AI assistant designed to automate everyday tasks.
 
-### 📄 PDF AI
-AI application for reading and answering questions from PDF documents.
+**PDF AI**
+An AI application that reads PDF documents and answers questions based on their content.
 
-### 🧠 Job Description Parser
-AI-powered job description extraction and structured data parsing project.
+**Job Description Parser**
+An AI-powered tool that extracts and structures data from job descriptions.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitubharti&show_icons=true&theme=dark&hide_border=true)
 
----
-
-## 🔥 GitHub Streak
+**Streak**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sumitubharti&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
----
-
-## 📈 Contribution Graph
+**Contribution Activity**
 
 [![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitubharti&theme=github-dark&hide_border=true)](https://github.com/sumitubharti)
-
----
-
-## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/sumitubharti/sumitubharti/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 👀 Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sumitubharti&style=for-the-badge&color=blue)
 
----
-
-### ⭐ Thanks for visiting my profile!
+Thank you for visiting my profile.
