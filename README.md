@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit
 
-<!--
-**sumitubharti/Sumitubharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python, AI and Software Development.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C
+- C++
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+
+## 🚀 Projects
+
+- AI Assistant
+- PDF AI Project
+- Job Description Parser
+
+## 📊 GitHub Stats
+
+More projects coming soon...
