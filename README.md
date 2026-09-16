@@ -1,107 +1,99 @@
-# 👋 Hi, I'm Sumit Bharti
+# 👋 Hi, I'm Sumit
 
-### 💻 Aspiring Software Engineer | Python Developer | AI & Automation Enthusiast
+### 💻 Software Developer | Python Developer | AI Learner
 
-I'm a student passionate about **Software Development, Artificial Intelligence,
-Automation, and Problem Solving**.
-
-Currently, I'm strengthening my programming fundamentals and building
-practical projects with **Python, APIs, LLMs, and modern developer tools.**
+I'm learning **Python, AI, Machine Learning and Software Development**.
+I enjoy building projects and learning new technologies.
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect With Me
 
-- 🎓 Student focused on Software Engineering and Computer Science
-- 🐍 Currently learning and building with **Python**
-- 🤖 Exploring **AI, LLMs, Prompt Engineering & Automation**
-- 🔌 Working with **REST APIs, JSON, Pydantic and external AI APIs**
-- 📄 Building practical applications for **PDF/document processing**
-- 🧠 Learning how modern AI applications are designed and deployed
-- 🌱 Continuously improving my problem-solving and development skills
-- 💡 Interested in building useful real-world software
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 AI & Machine Learning
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+### Web Development
 
-### 🌐 Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
-### 🗄️ Data & Tools
+### Frameworks & Tools
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 📊 Python Libraries
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Science & AI
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects
 
-### 🤖 AI Job Description Parser
+### 🤖 AI Assistant
+AI-based personal assistant project built with Python.
 
-A Python-based application that extracts structured information
-from job descriptions using an LLM and **Pydantic schemas**.
+### 📄 PDF AI
+AI application for reading and answering questions from PDF documents.
 
-**Key concepts:**
-- Python
-- LLM API integration
-- Structured JSON output
-- Pydantic validation
-- Environment variables
-- Document processing
+### 🧠 Job Description Parser
+AI-powered job description extraction and structured data parsing project.
 
 ---
 
-### 📄 AI Document Assistant
+## 📊 GitHub Stats
 
-An application focused on extracting information from documents
-and generating useful responses using AI.
-
-**Key concepts:**
-- PDF processing
-- Python
-- AI API integration
-- Document extraction
-- Environment variables
-- Automated responses
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitubharti&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-## 📚 Currently Learning
+## 🔥 GitHub Streak
 
-```text
-Python
-  ├── Advanced Python
-  ├── APIs & JSON
-  ├── OOP
-  └── Backend Development
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumitubharti&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-Artificial Intelligence
-  ├── LLMs
-  ├── Prompt Engineering
-  ├── Structured Outputs
-  ├── RAG
-  └── AI Automation
+---
 
-Software Engineering
-  ├── Git & GitHub
-  ├── Databases
-  ├── REST APIs
-  └── Problem Solving
+## 📈 Contribution Graph
+
+[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitubharti&theme=github-dark&hide_border=true)](https://github.com/sumitubharti)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sumitubharti/sumitubharti/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumitubharti&style=for-the-badge&color=blue)
+
+---
+
+### ⭐ Thanks for visiting my profile!
